@@ -30,7 +30,7 @@ main{
     padding: 10px;
     z-index: 1;
     text-align: center;
-    font-size: 1vw
+    font-size: 1.2vw
 }
 
 #textoApresentacao h1 {
@@ -63,8 +63,12 @@ main{
 }
 
 #iconesEnergias img {
-    width: 4vw;
+    width: 5.3vw;
     margin: 30px;
+}
+
+span{
+    font-size: 80%;
 }
 
 #exemplosEmpresas{
@@ -91,7 +95,9 @@ main{
 }
 
 #imgEmpresas img{
-    width: 100px;
+    max-width: 20%;
+    min-width: 50px;
+    margin-top: 40px;
 }
 
 #siteOnu{
