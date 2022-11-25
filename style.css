@@ -82,8 +82,8 @@ span{
 
 #exemplosEmpresas p{
     padding: 10px;
-    font-size: 1.1vw;
 }
+
 
 #imgEmpresas{
     display: flex;
@@ -109,10 +109,10 @@ span{
 }
 
 #siteOnu img{
-    width: 300px;
+    width: 15%;
     position: absolute;
-    margin-top: 1.5%;
-    margin-left: -15%;
+    margin-top: 60px;
+    margin-left: -30%;
 }
 
 #textoOnu{
@@ -121,9 +121,11 @@ span{
     width: 40%;
     height: 200px;
     padding: 20px;
-    font-size: 1vmax;
+    font-size: 1.4vmax;
     font-size: 1.5vmin;
 }
+
+textoOnu
 
 #imgOnu{
     margin-right: 15%;
